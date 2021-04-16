@@ -11,7 +11,7 @@ This is a script that alerts via text when Mazepin s🅱️ins out. It uses an a
 Dont want to wake up to watch the practice sessions but still want to know our boy is beyblading?  Wake up to these:
 ![Imola](https://i.imgur.com/9gzB0Cg.png) 
 
-Special thanks for spinning out in Imola to allow me to integration test my algos.
+Special thanks to him for spinning out in P1 @ Imola to allow me to integration test my algos.
 
 # Instructions
 
