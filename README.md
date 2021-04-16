@@ -9,9 +9,9 @@ This is a script that alerts via text when Mazepin s🅱️ins out. It uses an a
 ![patent pending](https://i.imgur.com/EWtTCRk.png)
 
 Dont want to wake up to watch the practice sessions but still want to know our boy is beyblading?  Wake up to these:
-![Imola](https://i.imgur.com/G3FVY5d.png) 
+![Imola](https://i.imgur.com/9gzB0Cg.png) 
 
-Special thanks for spinning out to allow me to integration test my algos.
+Special thanks for spinning out in Imola to allow me to integration test my algos.
 
 # Instructions
 
@@ -32,3 +32,5 @@ If you did it right you should see:
 ![mazespin](https://i.imgur.com/Y8q0UJl.png)
 
 I fully endorse someone turning this into a SAAS product.  
+
+Special thanks to [/u/scooty14](https://reddit.com/u/scooty14) for running an awesome site
